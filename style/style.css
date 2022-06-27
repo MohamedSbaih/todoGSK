@@ -154,4 +154,9 @@ button {
     background-clip: text;
     color: transparent;
   }
+
+  .task .action .delete {
+    color: crimson;
+  }
+  
   
