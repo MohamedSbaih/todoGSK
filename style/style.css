@@ -76,4 +76,6 @@ button {
     cursor: pointer;
     transition: 0.4s;
   }
-  
+  #addNewTaskBtn:hover {
+    opacity: 0.8;
+  }
