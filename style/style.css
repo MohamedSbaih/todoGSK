@@ -82,3 +82,10 @@ button {
   #addNewTaskBtn:active {
     opacity: 0.6;
   }
+
+  main {
+    flex: 1 1 0%;
+    max-width: 50rem;
+    width: 100%;
+    margin: 0 auto;
+  }
