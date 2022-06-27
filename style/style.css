@@ -139,5 +139,10 @@ button {
     text-transform: uppercase;
     transition: 0.4s;
   }
+
+  .task .action button:hover {
+    opacity: 0.8;
+  }
+  
   
   
