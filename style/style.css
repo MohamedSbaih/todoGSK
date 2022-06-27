@@ -100,4 +100,8 @@ button {
     color: var(--gray);
     margin-bottom: 1rem;
   }
+
+  #tasks {
+    margin: 2rem;
+  }
   
