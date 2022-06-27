@@ -50,3 +50,13 @@ button {
   background: none;
   margin: 0.4rem;
 }
+
+#inputTodoTask {
+    flex: 1 1 0%;
+    background-color: var(--darker);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-right: 0.5rem;
+    color: var(--light);
+    font-size: 1rem;
+  }
