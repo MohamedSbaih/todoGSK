@@ -65,4 +65,15 @@ button {
     color: var(--gray);
     font-size: 1rem;
   }
+
+  #addNewTaskBtn {
+    font-size: 0.8rem;
+    font-weight: 700;
+    background-image: linear-gradient(to right, var(--pink), var(--purple));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    cursor: pointer;
+    transition: 0.4s;
+  }
   
