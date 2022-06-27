@@ -16,3 +16,11 @@
     padding: 0;
     font-family: "Fira Sans", sans-serif;
   }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: var(--dark);
+    color: #fff;
+  }
