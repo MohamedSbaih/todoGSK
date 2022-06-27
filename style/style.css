@@ -60,3 +60,9 @@ button {
     color: var(--light);
     font-size: 1rem;
   }
+
+  #inputTodoTask::placeholder {
+    color: var(--gray);
+    font-size: 1rem;
+  }
+  
