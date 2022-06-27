@@ -93,4 +93,11 @@ button {
   .taskList {
     padding: 1.5rem;
   }
+
+  .taskList h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--gray);
+    margin-bottom: 1rem;
+  }
   
