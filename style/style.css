@@ -147,4 +147,11 @@ button {
   .task .action button:active {
     opacity: 0.6;
   }
+
+  .task .action .edit {
+    background-image: linear-gradient(to right, var(--pink), var(--purple));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
   
