@@ -125,4 +125,9 @@ button {
   .task .content .text:not(:read-only) {
     color: var(--pink);
   }
+
+  .task .action {
+    display: flex;
+    margin: 0 -0.5rem;
+  }
   
