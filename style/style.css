@@ -104,4 +104,13 @@ button {
   #tasks {
     margin: 2rem;
   }
+
+  #tasks .task {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--darkest);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+  }
   
